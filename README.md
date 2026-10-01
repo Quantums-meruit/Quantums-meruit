@@ -1,4 +1,4 @@
-# Hi, I'm [Quantums-meruit]
+# Hi, I'm Quantums-meruit
 
 ## About Me
 - I'm currently learning [ Software development at University of Nairobi"].
@@ -7,10 +7,12 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- ["HTML/CSS", "Machine Learning", "JavaScript", "SQL" etc]
+- "HTML/CSS", "Machine Learning", "JavaScript", "SQL" etc.
 
 ## Current Projects
 - [semanticts](https://github.com/Quantums-meruit/iyf-s12-week-01-Quantums-meruit/blob/main/files/semantic-conversion.html) — How to use semantic tags for web accessibility.
+  
+- [Forms] (https://github.com/Quantums-meruit/iyf-s12-week-01-Quantums-meruit/blob/main/files/contact.html)
 
 ## How to Reach Me
 - Email: [to be filled later]
