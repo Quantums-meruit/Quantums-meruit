@@ -17,7 +17,17 @@
 ## How to Reach Me
 - Email: [to be filled later]
 - LinkedIn: [not active for now]
+  
+
+## Git Commands
 ```
+$ git config --global --list
+user.name=Quantums-meruit
+user.email=m9776104@gmail.com
+```
+```
+
+
 
 ---
 
